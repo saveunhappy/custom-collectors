@@ -1,4 +1,4 @@
-# Maven综合练习：编写一个统计代码行数的Maven插件
+# Collectors练习：编写一个自定义的Collector
 
 请按照[WordCount](https://github.com/hcsp/custom-collectors/blob/master/src/main/java/com/github/hcsp/WordCount.java)中的要求，
 完成自定义的[WordCountCollector](https://github.com/hcsp/custom-collectors/blob/master/src/main/java/com/github/hcsp/WordCountCollector.java)。`
